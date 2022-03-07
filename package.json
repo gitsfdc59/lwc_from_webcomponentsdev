@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/gitsfdc59.lwc-l0gymwt7",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 44JmazJMnN4m4SGH5ITZ --open"
+  }
+}
